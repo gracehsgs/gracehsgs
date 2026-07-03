@@ -23,21 +23,7 @@
   <img src="https://img.shields.io/badge/Fokus-IoT%20%2B%20AI-1E40AF?style=flat&logo=internetcomputer&logoColor=white"/>
 </p>
 
-GET TO KNOW ME
 
-Nama       : Grace
-Status     : Mahasiswa Teknik Komputer
-Minat      : Internet of Things (IoT) & Artificial Intelligence
-Filosofi   : build a relationship with stuff around me
-Hobi       : Nonton anime (Naruto favorit!) 🍥
-
-
-
-
-
-
-
-BulanFokus Utama1 - 2Matematika dasar AI + dasar elektronika/mikrokontroler3 - 4Proyek IoT mandiri (sensor, ESP32/Arduino, komunikasi data)5Integrasi AI ringan (edge AI, model sederhana) ke proyek IoT6Riset & prototipe awal Drone Pertanian
 
 
 Tool i've used
@@ -46,10 +32,6 @@ Tool i've used
   <img src="https://skillicons.dev/icons?i=cpp,c,canva,arduino,git,github,vscode&theme=light" />
 </p>
 
-
-🌱 Proyek IoT yang Sedang/Akan Dikerjakan
-
-NoNama ProyekStatusDeskripsi Singkat1Smart Plant Monitor🔧 ProgressMonitoring kelembapan tanah & suhu real-time2Weather Station IoT📝 RencanaStasiun cuaca mini dengan dashboard cloud3Drone Pertanian (Prototipe)🚀 Big ProjectDrone otonom berbasis AI untuk pertanian presisi...(update seiring progres)
 
 
 
