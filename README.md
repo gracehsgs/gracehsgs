@@ -1,14 +1,8 @@
-<!-- ===================== COMIC BANNER ===================== -->
-
+<!-- ====== BANNER ATAS ====== -->
 <p align="center">
-  <img src="images/banner-comic.png" width="100%" alt="Grace Comic Banner"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:3B82F6,100:BFDBFE&height=220&section=header&text=Halo,%20Saya%20[Nama%20Kamu]&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20Teknik%20Komputer%20|%20Calon%20IoT%20Engineer%20berbasis%20AI&descSize=18&descAlignY=58" width="100%](https://capsule-render.vercel.app/api?type=blur&height=300&color=567c8D&text=Hi,I%20am%20Grace&section=header&fontColor=16587B&textBg=false&animation=fadeIn)"/>
 </p>
 
-<!-- ===================== TYPING ===================== -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Building+IoT+Projects+with+AI;Future+IoT+Engineer;Dream+Project:+Autonomous+Agriculture+Drone" />
-</p>
 <!-- ====== TYPING ANIMATION ====== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Belajar+IoT+%2B+AI+dari+nol;Target%3A+15%2B+Proyek+IoT+dalam+6+bulan;Big+Project%3A+Drone+Pertanian+Otonom;Sedang+memperdalam+Matematika+%F0%9F%93%90" alt="Typing SVG" />
@@ -41,17 +35,6 @@ Hobi       : Nonton anime (Naruto favorit!) 🍥
 
 
 
-🎯 Roadmap 6 Bulan Ke Depan
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:BFDBFE,100:3B82F6&height=3&section=header" width="100%"/>
-</p>
-
- 🧮 Memperdalam fondasi Matematika (aljabar linear, kalkulus, statistika untuk AI)
- 🔩 Membangun 15+ proyek IoT kecil-menengah (sensor, mikrokontroler, konektivitas cloud)
- 🤖 Mengintegrasikan AI/Machine Learning sebagai otak pengambil keputusan di setiap proyek
- 🚁 Proyek besar: Drone Pertanian Otonom — pemetaan lahan, deteksi kondisi tanaman, penyemprotan presisi berbasis AI
- 📚 Dokumentasikan setiap proyek di GitHub sebagai portofolio pembelajaran
 
 
 BulanFokus Utama1 - 2Matematika dasar AI + dasar elektronika/mikrokontroler3 - 4Proyek IoT mandiri (sensor, ESP32/Arduino, komunikasi data)5Integrasi AI ringan (edge AI, model sederhana) ke proyek IoT6Riset & prototipe awal Drone Pertanian
