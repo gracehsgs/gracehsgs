@@ -1,6 +1,13 @@
-<!-- ====== BANNER ATAS ====== -->
+<!-- ===================== COMIC BANNER ===================== -->
+
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRkaDJ6cHhheTk2dTdtZ3o0aXR3bWh5ZnBqeHJnenJvN2V6bTEwaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aY1HMl4E1Ju1y/giphy.gif)type=waving&color=0:1E3A8A,50:3B82F6,100:BFDBFE&height=220&section=header&text=Halo,%20Saya%20Grace&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20Teknik%20Komputer%20|%20Calon%20IoT%20Engineer%20berbasis%20AI&descSize=18&descAlignY=58" width="100%"/>
+  <img src="images/banner-comic.png" width="100%" alt="Grace Comic Banner"/>
+</p>
+
+<!-- ===================== TYPING ===================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Building+IoT+Projects+with+AI;Future+IoT+Engineer;Dream+Project:+Autonomous+Agriculture+Drone" />
 </p>
 <!-- ====== TYPING ANIMATION ====== -->
 <p align="center">
