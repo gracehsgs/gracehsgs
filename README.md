@@ -1,6 +1,6 @@
 <!-- ====== BANNER ATAS ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:3B82F6,100:BFDBFE&height=220&section=header&text=Halo,%20Saya%20[Nama%20Kamu]&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20Teknik%20Komputer%20|%20Calon%20IoT%20Engineer%20berbasis%20AI&descSize=18&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:3B82F6,100:BFDBFE&height=220&section=header&text=Halo,%20Saya%20[Grace]&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20Teknik%20Komputer%20|%20Calon%20IoT%20Engineer%20berbasis%20AI&descSize=18&descAlignY=58" width="100%"/>
 </p>
 <!-- ====== TYPING ANIMATION ====== -->
 <p align="center">
@@ -14,25 +14,22 @@
     2. Klik GIF > Copy Link > pilih link yang berakhiran .gif
     3. Tempel link itu menggantikan URL di bawah ini
   -->
-  <img src="GANTI_DENGAN_LINK_GIF_NARUTO.gif" width="380" alt="Naruto running gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRkaDJ6cHhheTk2dTdtZ3o0aXR3bWh5ZnBqeHJnenJvN2V6bTEwaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aY1HMl4E1Ju1y/giphy.gif" width="380" alt="Naruto running gif"/>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile%20Views&color=2563EB&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?gracehsgs=gracehsgs_KAMU&label=Profile%20Views&color=2563EB&style=flat" alt="profile views"/>
   <img src="https://img.shields.io/badge/Status-Belajar%20dari%200-3B82F6?style=flat&logo=readthedocs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fokus-IoT%20%2B%20AI-1E40AF?style=flat&logo=internetcomputer&logoColor=white"/>
 </p>
 
-🧑‍💻 Tentang Saya
+GET TO KNOW ME
 
-yamlNama       : [Nama Kamu]
+Nama       : Grace
 Status     : Mahasiswa Teknik Komputer
 Minat      : Internet of Things (IoT) & Artificial Intelligence
-Visi       : Menjadi IoT Engineer yang menjadikan AI sebagai "otak" dari setiap sistem
-Filosofi   : Belajar dari 0, membangun secara konsisten, dan tidak takut mencoba
+Filosofi   : build a relationship with stuff around me
 Hobi       : Nonton anime (Naruto favorit!) 🍥
 
-
-"Seperti Naruto yang mulai dari ninja gagal menjadi Hokage — saya mulai dari 0 menuju IoT Engineer profesional."
 
 
 
@@ -74,13 +71,4 @@ BulanFokus Utama1 - 2Matematika dasar AI + dasar elektronika/mikrokontroler3 - 4
 NoNama ProyekStatusDeskripsi Singkat1Smart Plant Monitor🔧 ProgressMonitoring kelembapan tanah & suhu real-time2Weather Station IoT📝 RencanaStasiun cuaca mini dengan dashboard cloud3Drone Pertanian (Prototipe)🚀 Big ProjectDrone otonom berbasis AI untuk pertanian presisi...(update seiring progres)
 
 
-🤝 Mari Terhubung
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-3B82F6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-BFDBFE?style=for-the-badge&logo=gmail&logoColor=1E3A8A"/></a>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BFDBFE,50:3B82F6,100:1E3A8A&height=150&section=footer" width="100%"/>
-</p>
