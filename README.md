@@ -60,7 +60,7 @@ BulanFokus Utama1 - 2Matematika dasar AI + dasar elektronika/mikrokontroler3 - 4
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1B2A&title_color=93C5FD&icon_color=60A5FA&text_color=E0E7FF" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=cobalt-dark&hide_border=true&background=0D1B2A&stroke=60A5FA&ring=3B82F6&fire=93C5FD" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gracehsgs&theme=cobalt-dark&hide_border=true&background=0D1B2A&stroke=60A5FA&ring=3B82F6&fire=93C5FD" width="48%"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=cobalt&hide_border=true&bg_color=0D1B2A&title_color=93C5FD&text_color=E0E7FF" width="45%"/>
