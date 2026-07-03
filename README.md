@@ -1,6 +1,6 @@
 <!-- ====== BANNER ATAS ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:3B82F6,100:BFDBFE&height=220&section=header&text=Halo,%20Saya%20Grace&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20Teknik%20Komputer%20|%20Calon%20IoT%20Engineer%20berbasis%20AI&descSize=18&descAlignY=58" width="100%"/>
+  <img src="[https://capsule-render.vercel.app/api?](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRkaDJ6cHhheTk2dTdtZ3o0aXR3bWh5ZnBqeHJnenJvN2V6bTEwaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aY1HMl4E1Ju1y/giphy.gif)type=waving&color=0:1E3A8A,50:3B82F6,100:BFDBFE&height=220&section=header&text=Halo,%20Saya%20Grace&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20Teknik%20Komputer%20|%20Calon%20IoT%20Engineer%20berbasis%20AI&descSize=18&descAlignY=58" width="100%"/>
 </p>
 <!-- ====== TYPING ANIMATION ====== -->
 <p align="center">
