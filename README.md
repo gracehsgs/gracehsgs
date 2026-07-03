@@ -1,6 +1,6 @@
 <!-- ====== BANNER ATAS ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:3B82F6,100:BFDBFE&height=220&section=header&text=Halo,%20Saya%20[Grace]&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20Teknik%20Komputer%20|%20Calon%20IoT%20Engineer%20berbasis%20AI&descSize=18&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:3B82F6,100:BFDBFE&height=220&section=header&text=Halo,%20Saya%20Grace&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20Teknik%20Komputer%20|%20Calon%20IoT%20Engineer%20berbasis%20AI&descSize=18&descAlignY=58" width="100%"/>
 </p>
 <!-- ====== TYPING ANIMATION ====== -->
 <p align="center">
@@ -50,21 +50,12 @@ Hobi       : Nonton anime (Naruto favorit!) 🍥
 BulanFokus Utama1 - 2Matematika dasar AI + dasar elektronika/mikrokontroler3 - 4Proyek IoT mandiri (sensor, ESP32/Arduino, komunikasi data)5Integrasi AI ringan (edge AI, model sederhana) ke proyek IoT6Riset & prototipe awal Drone Pertanian
 
 
-🛠️ Tech Stack & Tools
+Tool i've used
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,arduino,raspberrypi,tensorflow,git,github,linux,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,canva,arduino,git,github,vscode&theme=light" />
 </p>
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1B2A&title_color=93C5FD&icon_color=60A5FA&text_color=E0E7FF" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gracehsgs&theme=cobalt-dark&hide_border=true&background=0D1B2A&stroke=60A5FA&ring=3B82F6&fire=93C5FD" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=cobalt&hide_border=true&bg_color=0D1B2A&title_color=93C5FD&text_color=E0E7FF" width="45%"/>
-</p>
 
 🌱 Proyek IoT yang Sedang/Akan Dikerjakan
 
